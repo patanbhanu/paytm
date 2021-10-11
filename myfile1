@@ -1,0 +1,4 @@
+git fetch : It will get the update from git remote repo and will update your local repo. But it will not merge with Local working copy.
+git pull : It will get the update from git remote repo and will update your local repo as well it will merge with Local working copy also.
+
+
